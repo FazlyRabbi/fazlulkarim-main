@@ -1,5 +1,5 @@
-## Hi, I'm Ali Hossain 👋
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.png?raw=true' alt='Ali Hossain'>](https://github.com/FazlyRabbi/)
+## Hi, I'm Fazlul Karim 👋
+[<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/bg.png' alt='Ali Hossain'>](https://github.com/FazlyRabbi/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
@@ -23,9 +23,9 @@ I’m a Full Stack Web Developer passionate about building error-free websites w
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/dev.fazlul)  [https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/instagram.png](https://www.facebook.com/dev.fazlul)  [https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/twitter.png](https://www.facebook.com/dev.fazlul)  [https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/linkedin.png](https://www.linkedin.com/in/shovoalways/)  
 
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► rabbihasan151537@gmail.com
